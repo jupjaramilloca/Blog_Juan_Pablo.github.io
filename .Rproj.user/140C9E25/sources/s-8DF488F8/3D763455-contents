@@ -1,0 +1,35 @@
+name: "BLOG [Juan Pablo Jaramillo C.]"
+output_dir: "."
+navbar:
+  title: "BLOG Juan Pablo Jaramillo C"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Sobre Juan"
+      icon: fa-info
+      href: about.html
+      menu:
+         
+      
+              
+            
+  right:
+    - icon: fa-github
+      href: https://github.com/jupjaramilloca/Ejercicios-TAE.github.io
+    - icon: ion-social-instagram
+
+      
+
+      
+output:
+  html_document:
+    theme: cerulean
+    highlight: textmate
+    code_folding: hide
+
+
+right:
+    - icon: fa-github
+      href: https://github.com/jupjaramilloca/Ejercicios-TAE.github.io
+
